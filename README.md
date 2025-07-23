@@ -10,6 +10,7 @@ This repo contains problem statements and my submitted solutions.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Prefix Sum
@@ -20,4 +21,8 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0748-largest-number-at-least-twice-of-others) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
