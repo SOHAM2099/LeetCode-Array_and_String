@@ -47,9 +47,18 @@ This repo contains problem statements and my submitted solutions.
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
