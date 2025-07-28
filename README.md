@@ -10,6 +10,7 @@ This repo contains problem statements and my submitted solutions.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
@@ -47,6 +48,7 @@ This repo contains problem statements and my submitted solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -61,4 +63,8 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
