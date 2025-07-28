@@ -28,6 +28,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -37,9 +38,18 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
