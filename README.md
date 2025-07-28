@@ -11,6 +11,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
+| [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Prefix Sum
@@ -25,4 +26,12 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
