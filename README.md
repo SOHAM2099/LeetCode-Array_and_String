@@ -14,6 +14,7 @@ This repo contains problem statements and my submitted solutions.
 | [0054-spiral-matrix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -60,6 +61,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
@@ -69,4 +71,8 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
