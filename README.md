@@ -51,6 +51,7 @@ This repo contains problem statements and my submitted solutions.
 | [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
