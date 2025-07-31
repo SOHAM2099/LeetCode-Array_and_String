@@ -17,6 +17,7 @@ This repo contains problem statements and my submitted solutions.
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0748-largest-number-at-least-twice-of-others) |
