@@ -12,6 +12,7 @@ This repo contains problem statements and my submitted solutions.
 | ------- |
 | [0001-two-sum](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@ This repo contains problem statements and my submitted solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0344-reverse-string) |
