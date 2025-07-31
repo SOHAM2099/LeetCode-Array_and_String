@@ -10,6 +10,7 @@ This repo contains problem statements and my submitted solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
@@ -75,4 +76,8 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
