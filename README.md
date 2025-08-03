@@ -16,6 +16,7 @@ This repo contains problem statements and my submitted solutions.
 | [0054-spiral-matrix](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0209-minimum-size-subarray-sum) |
@@ -53,6 +54,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
