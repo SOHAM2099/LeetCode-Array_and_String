@@ -17,6 +17,7 @@ This repo contains problem statements and my submitted solutions.
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0498-diagonal-traverse) |
@@ -36,6 +37,7 @@ This repo contains problem statements and my submitted solutions.
 | ------- |
 | [0066-plus-one](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ This repo contains problem statements and my submitted solutions.
 | [0027-remove-element](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SOHAM2099/LeetCode-Array_and_String/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
