@@ -1,13 +1,16 @@
-class Solution {
+
+public class Solution {
     //SOHAM2099
     public String reverseWords(String s) {
-        String[] words=s.trim().split("\\s+");
-        String result="";
-        for(int i=0;i<words.length;i++)
-        {
-            result+=new StringBuilder(words[i]).reverse();
-            if(i!=words.length-1)   result+=" ";
+        String[] words = s.split(" ");
+        StringBuilder result = new StringBuilder();
+
+        for (String word : words) {
+            // Reverse each word
+            result.append(new StringBuilder(word).reverse().toString()).append(" ");
         }
-        return result;
+
+        // Remove the trailing space
+        return result.toString().trim();
     }
 }
